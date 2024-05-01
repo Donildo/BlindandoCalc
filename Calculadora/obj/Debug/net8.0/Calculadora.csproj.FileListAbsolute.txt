@@ -1,0 +1,15 @@
+C:\Users\Donildo Aleixo\MODULOTESTESDIO\Calculadora\bin\Debug\net8.0\Calculadora.exe
+C:\Users\Donildo Aleixo\MODULOTESTESDIO\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+C:\Users\Donildo Aleixo\MODULOTESTESDIO\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+C:\Users\Donildo Aleixo\MODULOTESTESDIO\Calculadora\bin\Debug\net8.0\Calculadora.dll
+C:\Users\Donildo Aleixo\MODULOTESTESDIO\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+C:\Users\Donildo Aleixo\MODULOTESTESDIO\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Donildo Aleixo\MODULOTESTESDIO\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Donildo Aleixo\MODULOTESTESDIO\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+C:\Users\Donildo Aleixo\MODULOTESTESDIO\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Donildo Aleixo\MODULOTESTESDIO\Calculadora\obj\Debug\net8.0\Calculadora.sourcelink.json
+C:\Users\Donildo Aleixo\MODULOTESTESDIO\Calculadora\obj\Debug\net8.0\Calculadora.dll
+C:\Users\Donildo Aleixo\MODULOTESTESDIO\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+C:\Users\Donildo Aleixo\MODULOTESTESDIO\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+C:\Users\Donildo Aleixo\MODULOTESTESDIO\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+C:\Users\Donildo Aleixo\MODULOTESTESDIO\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
